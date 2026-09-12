@@ -1,0 +1,9 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+    "分类": "电影$dianying#电视剧$dianshiju#综艺$zongyi#动漫$yinghuadongman#豆瓣电影Top250$40",
+    "免嗅": "",
+    "简介": "❤️腾影提示:请勿相信影片中的广告，以免上当受骗。+简介：&&</li>",
+
+    "分类url": "https://www.qyzf88.com/qyvodtype/{cateId}-{catePg}.html"
+}

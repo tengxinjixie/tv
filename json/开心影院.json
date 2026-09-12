@@ -1,0 +1,18 @@
+{
+        "站名": "开心影院",
+        "作者": "tyYBPQ",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",      
+        "数组": "<div class=\"col-lg-8 col-4\">&&</div>",
+        "图片": "img src=\"&&\"",
+        "标题": "<h3 class=\"mb-0 card-title text-truncate\">&&</h3>",
+        "副标题": "class=\"badge bg-pink position-absolute top-0 start-0 text-red-fg\">&&</span>",
+        "链接": "href=\"&&\"",
+        "简介": "❤️腾影提示:请勿相信影片中的广告，以免上当受骗，+<p>&&</p>",
+        "搜索url":"https://www.kxyytv.com/vodtype/id.html?wd={wd}",
+        "搜索模式": "1",
+        "线路数组": "<div class=\"col-md-12 mt-3\">&&</li>",
+        "地区": "[替换:大陆>>中国大陆#香港>>中国香港#台湾>>中国台湾]",
+        "分类": "电影$1#电视剧$2#动漫$4#综艺$3#短剧$26",
+        "分类url": "https://www.kxyytv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+      }

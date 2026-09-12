@@ -1,0 +1,17 @@
+{
+    "数组": "card card-sm card-link&&</div>",
+    "图片": "src=\"&&\"",
+    "标题": "mb-0 card-title text-truncate\">&&<",
+    "副标题": "start-0 text-red-fg\">&&</span>",
+    "链接": "href=\"&&\"",
+    "简介": "剧情简介：&&\"",
+    "倒序": "1",
+    "线路标题": "磁力播放",
+//在线"播放数组": "<div class=\"d-flex\"&&</div>",
+    "播放数组": "form-check-input m-0 align-middle&&</tbody>",
+    "播放列表": "<tr&&</tr>",
+    "播放标题": "text-muted\">&&</td>[不包含:电驴链接]",
+    "跳转播放链接": "href=\"&&\"",
+    "分类url": "https://www.xlys02.com/s/all/{catePg}?type={cateId};;d0",
+    "分类": "电影$0#电视剧$1"   
+    }

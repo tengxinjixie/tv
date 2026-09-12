@@ -1,0 +1,15 @@
+{
+    "请求头": "User-Agent$MOBILE_UA",
+    "编码": "UTF-8",
+        "站名": "金牌影院",
+    "发布页1": "link3.cc/JP999",
+        "发布页2": "JP246.COM",
+    "主页url": "https://huadian2.com/",
+
+"搜索url": "https://huadian2.com/search/-------------.html?wd={wd}&submit=",
+    "简介": "❤️腾影提示:请勿相信影片中的广告，以免上当受骗。+简介：&&</div>",
+    "播放链接": "href=\"&&\"",
+    "免嗅": "1",
+    "分类": "电影$1#电视剧$2#综艺$4#动漫$3#短剧$42",
+    "分类url": "https://huadian2.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+}

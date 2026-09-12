@@ -1,0 +1,18 @@
+{ 
+       "站名": "66大片网",
+       //"永久网止": "https://www.66dpw.vip/",
+       "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+       "免嗅": "0",
+       "影片年代":"<div class=\"module-info-tag-link\">&&</a>",
+       "搜索url": "https://www.66dpw.xyz/vodsearch/-------------.html?wd={wd}",
+       "搜索图片":"data-original=\"&&\"",
+       "搜索标题":"alt=\"&&\"",
+       "搜索链接":"href=\"&&\"",
+       "线路标题":"data-dropdown-value=\"&&\"",
+       "简介": "❤️腾影提示:请勿相信影片中的广告，以免上当受骗！+<p>&&</p>",
+       "地区": "[替换:大陆>>内地#]",
+       "类型":"1--内地剧$6#港台剧$8#日韩剧$7#欧美剧$9||2--动作片$10#喜剧片$15#爱情片$14#科幻片$12#恐怖片$11#剧情片$16#战争片$13",
+       "分类": "剧集$1#电影$2#动漫$3#短剧$4#综艺$5",
+       "分类url": "https://www.66dpw.xyz/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+}

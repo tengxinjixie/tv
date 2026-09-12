@@ -1,0 +1,13 @@
+{
+        "站名": "开心影院搜索",
+        "作者": "tyYBPQ",
+        "请求头": "User-Agent$MOBILE_UA",
+        "编码": "UTF-8",       
+        "简介": "❤️腾影提示:请勿相信影片中的广告，以免上当受骗，+<p>&&</p>",
+        "搜索url":"https://www.kxyytv.com/vodtype/id.html?wd={wd}",
+        "搜索模式": "1",
+        "线路数组": "<div class=\"col-md-12 mt-3\">&&</li>",
+
+        "分类": "搜索$1",
+        "分类url": "https://www.kxyytv.com/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+      }
