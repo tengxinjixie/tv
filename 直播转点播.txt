@@ -1,0 +1,8 @@
+#iptv
+0
+#腾影TV
+./lives/live1.txt
+#电影3万
+./lives/电影3万.txt
+#央卫综合ai
+https://ghproxy.net/raw.githubusercontent.com/PizazzGY/TV/master/output/user_result.txt
