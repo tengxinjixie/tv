@@ -1,0 +1,21 @@
+{
+    "站名": "剧踪影视",
+    "编码": "UTF-8",
+    "请求头": "User-Agent$MOBILE_UA",
+       "编码": "UTF-8",
+       "主页url": "https://www.juzong01.me/",
+     //"发布页": "juzong.vip",
+       "副标题": "",
+    "简介": "style=\"display: none;\">&&</p>",
+       "线路标题": "class=\"more text-muted pull-right\"&&</span>",    
+      // "搜索url":"https://www.juzong01.me/vodtype/id.html?wd={wd}",
+       "搜索模式": "1",
+       "搜索url": "https://www.juzong01.me/vodsearch/-------------/?wd={wd}&submit=",
+    //  "搜索数组":"<a class=\"v-thumb stui-vodlist__thumb lazyloadv-thumb\"&&</a>",
+       "搜索图片":"data-original=\"&&\"",
+       "搜索标题":"title=\"&&\"",
+       "搜索链接": "href=\"&&\"",
+       "播放请求头": "User-Agent$MOBILE_UA",
+       "分类": "电影$1#电视剧$2#动漫$4#综艺$3#动作片$6#喜剧片$7#爱情片$8#科幻片$9#恐怖片$10#剧情片$11#战争片$12#犯罪片$22#动画片$23#国产剧$13#港台剧$14#日韩剧$15#欧美剧$16#海外剧$20",
+       "分类url": "https://www.juzong01.me/vodshow/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html"
+}
